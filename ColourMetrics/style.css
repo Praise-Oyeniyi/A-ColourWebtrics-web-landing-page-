@@ -161,6 +161,7 @@ header #right{
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
     animation-direction: alternate;
+    pointer-action:none;
 }
 @keyframes example3 {
     0%{
